@@ -1,3 +1,7 @@
+## Introduction
+- **Github** : <https://github.com/jhwlim>
+- **Blog** : <https://jhwlim.github.io>
+
 ## Personal Project
 ### [2021] Gallerie
 - 개요 : 인스타그램 기반 SNS 웹 서비스 제작
