@@ -2,6 +2,19 @@
 - **Github** : <https://github.com/jhwlim>
 - **Blog** : <https://jhwlim.github.io>
 
+## Education
+- **자바 기반 웹 개발자 양성과정 수료** (2020.10.19 ~ 2021.03.12)
+  - 자바(스프링 프레임워크) 백엔드 개발자 양성 과정
+  - Java, SQL, HTML/CSS/JS, JSP에 대한 기본 문법 학습
+  - Spring MVC와 Mybatis 프레임워크 학습
+  - 팀 프로젝트를 통한 협업 경험
+
+## Skills
+- **Java, Spring MVC**
+- Oracle DB, MySQL
+- Git
+- HTML/CSS/JS, jQuery
+
 ## Personal Project
 ### [2021] Gallerie
 - 개요 : 인스타그램 기반 SNS 웹 서비스 제작
